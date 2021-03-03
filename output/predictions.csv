@@ -1,52 +1,41 @@
 sentence,logit,prediction,sentiment_score
-WASHINGTON (AP) \u2014 Disappointed Democrats headed Wednesday toward renewing their control of the House for two more years but with a potentially shrunken majority as they lost at least seven incumbents without ousting a single Republican lawmaker.,[0.04526432 0.90257174 0.05216401],negative,-0.85730743
-""", ""By Wednesday afternoon, Democrats' only gains were two North Carolina seats vacated by GOP incumbents after a court-ordered remapping made the districts more Democratic.",[0.41546747 0.38765648 0.19687608],positive,0.02781099
-"Although their majority seemed secure, the results were an unexpected jolt for a party that had envisioned gains of perhaps 15 seats.",[0.8061408  0.10559149 0.08826771],positive,0.7005493
-"They were a morale booster for Republicans, who going into Election Day were mostly bracing for losses.",[0.6923207  0.13722701 0.17045228],positive,0.5550937
-""", ""\u201cThey were all wrong,\"" House Minority Leader Kevin McCarthy, R-Calif., told reporters about Democrats' assumptions of adding to their House numbers.",[0.05877632 0.52183384 0.4193898 ],negative,-0.46305752
-"Repeating a campaign theme Republicans used repeatedly against Democrats, he said, \u201cThe rejection that we saw last night from the Democrats, was that America does not want to be a socialist nation.\u2033"", ""McCarthy also touted his party's modest additions to its small cadre of female and minority lawmakers.",[0.42614794 0.05977178 0.5140803 ],neutral,0.36637616
-"\u201cThe Republican coalition is bigger, more diverse and more energetic than ever before,\"" he said.",[0.8827064  0.01379462 0.10349895],positive,0.8689118
-""", ""In perhaps their highest profile triumph, Republicans finally defeated 15-term Rep. Collin Peterson from a rural Minnesota district that backed President Donald Trump in 2016 by 31 percentage points, Trump's biggest margin in any Democratic-held district.",[0.6053942  0.2801111  0.11449474],positive,0.32528308
-"Peterson, who chairs the House Agriculture Committee, is one of the House's most conservative Democrats but was defeated by Republican Michelle Fischbach, the former lieutenant governor.",[0.05622236 0.7722621  0.17151552],negative,-0.7160397
-""", ""The latest Democratic incumbent to fall was freshman Rep. Abby Finkenauer of northeastern Iowa, who lost to GOP state Rep. Ashley Hinson.",[0.03705651 0.8303678  0.1325757 ],negative,-0.7933113
-""", ""The other defeated Democrats \u2014 all freshmen \u2014 included Reps. Debbie Mucarsel-Powell and Donna Shalala, health secretary under President Bill Clinton, in adjacent South Florida districts.",[0.02743885 0.836475   0.13608612],negative,-0.80903614
-""", ""Joe Cunningham of South Carolina, Xochitl Torres Small of New Mexico and Kendra Horn in Oklahoma also lost.",[0.06879263 0.59943694 0.33177042],negative,-0.5306443
-All had won surprising 2018 victories in districts Trump carried decisively in 2016.,[0.5365806  0.09131214 0.37210724],positive,0.44526848
-""", ""The fight for Torres Small's seat cost around $35 million, making it one of the country's most expensive races, according to the nonpartisan Center for Responsive Politics.",[0.0592818  0.75995874 0.1807594 ],negative,-0.7006769
-"She was defeated by Yvette Herrell, a former state legislator.",[0.06415547 0.6452378  0.29060674],negative,-0.58108234
-""", ""Before votes were counted, both parties\u2019 operatives said the GOP would be fortunate to limit Democratic gains to modest single digits.",[0.05083721 0.8798814  0.06928141],negative,-0.82904416
-"Democrats control the House 232-197, with five open seats and one independent.",[0.0649462  0.083002   0.85205173],neutral,-0.018055797
-It takes 218 seats to control the chamber.,[0.02249099 0.04070619 0.9368028 ],neutral,-0.018215206
-""", ""Democrats were also disappointed in the "", "" where they nursed fading hopes of winning the majority.",[0.01919545 0.9447519  0.03605263],negative,-0.9255565
-""", "" remained too early to call.",[0.03386921 0.73842573 0.22770514],negative,-0.7045565
-""", ""A smaller Democratic majority would make it tougher for House Speaker Nancy Pelosi, D-Calif., to unite her lawmakers as a handful of progressive freshmen arrive for the new Congress.",[0.03838735 0.8525087  0.10910399],negative,-0.81412137
-""", ""By retaining House control, Democrats would mark only the second time in a quarter century that they've led the chamber for two consecutive two-year Congresses.",[0.51602805 0.04106603 0.44290587],positive,0.47496203
-"The first period ran from 2007 through 2010, when Pelosi was serving her first four years as speaker.",[0.04005627 0.00886391 0.95107985],neutral,0.031192359
-""", ""\u201cOur purpose in this race was to win so that we could protect the Affordable Care Act and so that we could crush the virus,\u201d Pelosi told reporters, citing former President Barack Obama\u2019s health care act.",[0.7254538  0.02011766 0.25442848],positive,0.70533615
-"She declared that Democrats had won the House majority, which seemed highly likely but hadn\u2019t been officially determined by The Associated Press.",[0.46888036 0.0799259  0.45119378],positive,0.38895446
-""", ""Democrats\u2019 hopes of protecting their majority and even expanding it were based on public anxiety over the pandemic, Trump\u2019s alienation of suburban voters, and a vast fundraising edge.",[0.2812085  0.07816014 0.6406314 ],neutral,0.20304835
-But those advantages didn't carry them as far as they'd hoped.,[0.5680572  0.32820717 0.10373568],positive,0.23985001
-""", ""Democrats' setbacks were measured not just by seats they lost but by districts they failed to capture.",[0.01715682 0.9399739  0.04286929],negative,-0.92281705
-""", ""Democrats lost a majority Hispanic district in West Texas they expected to win after the GOP incumbent retired.",[0.01679905 0.9476017  0.03559922],negative,-0.93080264
-"And they lost a series of what seemed coin-flip races, failing to defeat GOP incumbents in Cincinnati, rural Illinois, central Virginia and the suburbs of St. Louis and several districts in Texas.",[0.02681237 0.88706017 0.0861274 ],negative,-0.8602478
-""", ""In a district between Austin and San Antonio, freshman GOP Rep. Chip Roy withstood a challenge from Democrat Wendy Davis.",[0.10971318 0.7635457  0.12674113],negative,-0.6538325
-"Davis gained fame as a state legislator by waging a 2013 filibuster against an anti-abortion bill, then lost a race for governor the following year.",[0.08569451 0.7060277  0.20827778],negative,-0.6203332
-"The conservative Club for Growth made her its biggest target, spending over $6 million against her this year.",[0.16807488 0.19006842 0.64185673],neutral,-0.021993548
-""", ""As if symbolically, Illinois Rep. Cheri Bustos, who leads the Democratic Congressional Campaign Committee, was in her own tight race in a closely divided district she won by 24 percentage points in 2018.",[0.09943333 0.5846162  0.3159505 ],negative,-0.48518285
-""", ""Democrats also notched no victories in long-shot races they\u2019d hoped would bolster their majority.",[0.29809734 0.5872743  0.11462839],negative,-0.28917697
-"Republicans retained such seats in central North Carolina; Montana; Omaha, Nebraska; and around Little Rock, Arkansas.",[0.20159642 0.04804033 0.75036323],neutral,0.1535561
-""", ""Some endangered Democratic freshmen like Texas' Lizzie Fletcher, Georgia's Lucy McBath and New Jersey's Tom Malinowski and Andy Kim held on.",[0.0896545 0.3264442 0.5839012],neutral,-0.2367897
-"And as Wednesday progressed, other hotly fought races remained undecided in Indiana and Virginia.",[0.02468104 0.76953936 0.20577955],negative,-0.7448583
-""", ""Democratic Rep. Alexandria Ocasio-Cortez of New York and the three other members of the so-called squad of young progressive women of color were easily reelected.",[0.6581507  0.0860563  0.25579306],positive,0.5720944
-"A small handful of new progressives will be coming to Washington including Democrats Jamaal Bowman and Mondaire Jones of New York, but others like Nebraska Democrat Kara Eastman lost their races.",[0.02319858 0.9015788  0.0752226 ],negative,-0.8783802
-""", ""Jones will be Congress' first openly gay black lawmaker, while another newcomer from New York, Democrat Ritchie Torres, will be its first openly gay Hispanic.",[0.21543542 0.01768449 0.76688004],neutral,0.19775093
-""", ""Marjorie Taylor Greene, who has espoused unfounded QAnon conspiracy theories, won a vacant seat in northwest Georgia.",[0.05963844 0.32725137 0.6131102 ],neutral,-0.26761293
-Trump has called Greene a \u201cfuture Republican star.\u201d QAnon asserts that Trump is quietly waging a battle against pedophiles in government.,[0.11929459 0.07940377 0.80130166],neutral,0.03989082
-""", ""Republican Lauren Boebert, a guns-rights activist and bar owner from western Colorado, won an open GOP seat there.",[0.20813406 0.10078364 0.6910823 ],neutral,0.10735042
-""", ""Hanging over the contests were the coronavirus pandemic and the wounded economy, which voters ranked as top concerns, according to AP VoteCast, a national survey of the electorate.",[0.0819195  0.40551764 0.5125629 ],neutral,-0.32359815
-"The virus has killed 232,000 people in the U.S. and cases are rising in nearly every state, while millions have lost jobs.",[0.0158268  0.94052815 0.0436451 ],negative,-0.92470133
-""", ""Democrats thought Trump\u2019s repeated false statements downplaying the virus\u2019 severity would redouble the impact of their long-time focus on health care.",[0.0198407  0.9041624  0.07599691],negative,-0.8843217
-""", ""Buoying Democrats was a coast-to-coast edge in campaign fundraising.",[0.8677255  0.02557307 0.10670135],positive,0.8421524
-"That allowed nearly all Democratic incumbents in potentially vulnerable districts to outspend their GOP challengers, often by vast margins, according to an AP analysis of Federal Election Commission campaign reports.",[0.29043436 0.13038026 0.5791854 ],neutral,0.1600541
-""", ""AP VoteCast is a nationwide survey of more than 127,000 voters and nonvoters conducted for The Associated Press by NORC at the University of Chicago.",[0.03438645 0.02774774 0.93786585],neutral,0.0066387076
-""", ""___"", ""Find AP\u2019s full election coverage at APNews.com/Election2020.",[0.03500482 0.01410644 0.9508887 ],neutral,0.020898385
+Smart investing is about balancing risk and reward.,[0.07795517 0.00647902 0.9155658 ],neutral,0.071476154
+"Typically, when analyzing potential pluses and minuses, financial professionals consider the fundamentals: How has the investment performed over time?",[0.0411243  0.01862222 0.9402535 ],neutral,0.02250208
+What are the market trends?,[0.05011228 0.03344674 0.916441  ],neutral,0.01666554
+Do the company valuations look strong?,[0.2953303  0.01316075 0.69150895],neutral,0.28216955
+"Until recently, as an investment, bitcoin has had unique and pronounced risks, but that's changing, with new rules and regulations that have spurred wider institutional adoption.",[0.6883082  0.00770225 0.3039896 ],positive,0.68060595
+"Throughout its 12-year history, the world's most valuable cryptocurrency has faced extreme volatility, with prices rising and falling as much as 10% on any given day — reaching an all-time high of more than $41,000 earlier this month.",[0.02584905 0.9058615  0.06828941],negative,-0.88001245
+"Beyond wild price swings, bitcoin also has structural issues that most asset classes don't have to consider, like lost or stolen password keys, which can wipe out someone's entire investment.",[0.02038434 0.79906636 0.18054932],negative,-0.778682
+"Fortunately, bitcoin's rapid growth has caused government and institutions to step in and address many of the risks associated with the digital currency, with the US Office of Comptroller of Currency authorizing banks and custodians to provide cryptocurrency services, which eliminate these types of problems.",[0.6052321  0.01021238 0.38455546],positive,0.59501976
+"In short, bitcoin has matured — though it's still in an early adoption phase — and now offers significant long-term value.",[0.8788867  0.00785198 0.11326133],positive,0.87103474
+"Here&#39;s how to buy bitcoin without all the risk of buying bitcoin
+Here's how to buy bitcoin without all the risk of buying bitcoin
+Since the onset of Covid-19, the federal government has allocated nearly $4.5 trillion in spending for direct payments to individuals, enhanced unemployment, small business loans and other types of financial supports — with more likely to come, as detailed in President Biden's proposed $1.9 trillion relief package.",[0.16559097 0.02870431 0.80570465],neutral,0.13688667
+"Though deficit spending is necessary for the long-term health of the economy, it also poses potential for inflation.",[0.06610161 0.7406874  0.19321097],negative,-0.67458576
+"In the past four years alone, the national debt rose about $7.6 trillion to $27 trillion.",[0.87408066 0.01831058 0.10760874],positive,0.85577005
+"To hedge against this type of volatility, many investors are scooping up bitcoin, which, because of its very nature, is impervious to inflation.",[0.08940665 0.07805157 0.8325418 ],neutral,0.011355072
+"There can ever only be 21 million bitcoins in existence, due to a stipulation in its source code.",[0.02110962 0.02870576 0.95018464],neutral,-0.0075961333
+"By the law of supply and demand, that makes bitcoin a limited — and in-demand — asset.",[0.03966197 0.00699048 0.95334756],neutral,0.032671496
+"At the same time, increased regulations, improved infrastructure and access to financial institutions — like Fidelity — that hold investors' money have made bitcoin investments as safe as owning bonds and commodities like gold, which are also used to balance portfolios.",[0.86717325 0.0127884  0.12003838],positive,0.85438484
+"When gold rallied from 2001 to 2011, it was largely because the era of tight monetary policy had come to an end due to the Fed reducing the funds rate targets.",[0.4072415  0.2921469  0.30061164],positive,0.1150946
+"In 2012, the value of gold fell when fears of inflation receded and the stock market soared.",[0.01306349 0.9669982  0.01993839],negative,-0.9539347
+"You might then ask: If bitcoin is volatile, how can it also guard against volatility?",[0.07044233 0.00859486 0.9209628 ],neutral,0.061847463
+"Though bitcoin has experienced dramatic price shifts over the years, much of that movement can be attributed to the newness of the asset class and lack of regulation.",[0.11865666 0.01974291 0.8616004 ],neutral,0.098913744
+"Today, that's changing with recently enacted regulations coupled with the entrance of large players, including macro funds, large hedge funds and life insurance companies, no doubt drawn to the more stable environment.",[0.6955134  0.01182865 0.29265794],positive,0.68368477
+"While price fluctuations aren't going to go away entirely, we view bitcoin as a long-term value proposition that should only grow over time.",[0.19527993 0.00536577 0.7993543 ],neutral,0.18991415
+"With major institutions now bullish on bitcoin, investors may have a different worry — that they've effectively missed the boat.",[0.02473378 0.9157667  0.05949954],negative,-0.89103293
+But history proves otherwise.,[0.606776   0.0413988  0.35182515],positive,0.5653772
+Amazon is one of the most valuable companies in the world.,[0.45406157 0.00984616 0.5360922 ],neutral,0.44421542
+"In each of Amazon's first 12 years, the stock's high price was, on average, more than double its open price.",[0.66469914 0.0269304  0.30837047],positive,0.63776875
+But investing in Amazon over the last 12 years has remained highly profitable.,[0.78268117 0.00839995 0.20891884],positive,0.7742812
+"Man who accidentally threw out a bitcoin fortune offers $70 million for permission to dig it up
+Man who accidentally threw out a bitcoin fortune offers $70 million for permission to dig it up
+When investing in an emerging asset class, there is always an inflection point — a moment where there is enough of an infrastructure to allow for wider adoption while still leaving room for appreciation.",[0.11004642 0.03755674 0.85239685],neutral,0.07248968
+We believe that we're at that moment with bitcoin.,[0.23482454 0.00733564 0.75783986],neutral,0.2274889
+The strongest indicator of bitcoin's value is the sheer size of its market capitalization — more than $600 billion.,[0.10778958 0.00709653 0.88511384],neutral,0.10069305
+"If we were to look at that through the prism of the S&P 500, it would make bitcoin a top 10 company in the world, having gone from zero to half a trillion in just 12 years.",[0.70173806 0.01680331 0.28145868],positive,0.68493474
+"Only a few companies, like Facebook and Tesla, have grown that fast.",[0.48595494 0.01146429 0.50258076],neutral,0.47449064
+"When the world is spinning out of control, it's natural to want to invest in something tangible, like gold.",[0.07049541 0.00852787 0.92097676],neutral,0.06196754
+But bitcoin is valuable because of — not despite — it's intangibility.,[0.12113314 0.01198424 0.8668826 ],neutral,0.109148905
+You can always mine for more gold.,[0.19832082 0.01908917 0.7825901 ],neutral,0.17923166
+Bitcoin is unique among assets as the first store of value in the world where supply is completely unaffected by increased demand.,[0.30192846 0.01029847 0.68777305],neutral,0.29163
