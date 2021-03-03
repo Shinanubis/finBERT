@@ -4,7 +4,7 @@ import argparse
 import os
 
 
-parser = argparse.ArgumentParser(description='Sentiment analyzer')
+parser = argparse.ArgumentParser(description='Sentiment ')
 
 parser.add_argument('-a', action="store_true", default=False)
 
